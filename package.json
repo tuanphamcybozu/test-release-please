@@ -1,0 +1,19 @@
+{
+  "name": "test-release-please",
+  "version": "1.0.0",
+  "description": "This repo is for testing release-please",
+  "main": "index.js",
+  "scripts": {
+    "test": "pnpm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tuanphamcybozu/test-release-please.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tuanphamcybozu/test-release-please/issues"
+  },
+  "homepage": "https://github.com/tuanphamcybozu/test-release-please#readme"
+}
