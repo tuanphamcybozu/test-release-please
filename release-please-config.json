@@ -1,13 +1,16 @@
 {
+  "bootstrap-sha": "6fc2e4506d15ae162621f9c1a0252b68ee54566e",
   "packages": {
     ".": {
-      "changelog-path": "CHANGELOG.md",
       "release-type": "node",
-      "bump-minor-pre-major": false,
+      "draft": true,
+      "prerelease": false,
+      "bump-minor-pre-major": true,
       "bump-patch-for-minor-pre-major": false,
-      "draft": false,
-      "prerelease": false
+      "changelog-path": "CHANGELOG.md",
+      "versioning": "default",
+      "include-component-in-tag": false,
+      "include-v-in-tag": true
     }
-  },
-  "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json"
+  }
 }
