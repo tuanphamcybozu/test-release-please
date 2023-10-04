@@ -1,6 +1,6 @@
 {
   "name": "test-release-please",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is demo project for testing release-please",
   "main": "index.js",
   "devDependencies": {},
